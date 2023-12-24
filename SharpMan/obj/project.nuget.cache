@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E29rp6M7yaEk9REhl+Jb/dL+U4yRN5iPsJNLpILpN6SxJ/GzkEx+P5cloasGe+7muPUA/FFxDpiCZKjlz/LREg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajas\\OneDrive\\Desktop\\Scripts\\Script\\C\\C#\\Games\\SharpMan\\SharpMan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajas\\.nuget\\packages\\towel\\1.0.40\\towel.1.0.40.nupkg.sha512"
+  ],
+  "logs": []
+}
